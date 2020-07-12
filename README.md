@@ -1,8 +1,8 @@
 
+## 🏃 I'm Covenant! 
 
-### 🏃 Server Developer
-- 👨‍🎓 Department of CSEE at HGU Univㅤ 
-- 👨‍💻 Junior Server Developer #Go-lang
+👨‍🎓 Department of CSEE at HGU Univㅤ 
+👨‍💻 Junior Server Developer #Go-lang
 
 <div align=center>
   
