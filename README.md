@@ -1,8 +1,8 @@
-### 🏃
 
-### Server Developer
-- Go-lang Crew
 
+### 🏃 Server Developer
+- 👨‍🎓 Department of CSEE at HGU Univㅤ 
+- 👨‍💻 Junior Server Developer #Go-lang
 
 <div align=center>
   
