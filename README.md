@@ -1,8 +1,8 @@
 
-# 📣 드라마 바이블 웨일 확장앱 출시
+## 📣 드라마 바이블 웨일 확장앱 출시
 
 <p align="center">
-  <img src="https://github.com/whale-lab/drama-bible/blob/master/images/readme_cover.png?raw=true" />
+  <img src="https://github.com/whale-lab/drama-bible/blob/master/images/readme_cover.png?raw=true" width="60%"/>
 </p>
 <p align="center">
   <a href="https://store.whale.naver.com/detail/nifdgfjcbdoidcipoeolgfjafcjoljli"> 웨일 스토어 - 드라마바이블</a> 👈 바로가기!
