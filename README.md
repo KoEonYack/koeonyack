@@ -19,6 +19,10 @@
 
 </div>
 
+
+
+<!--
+
 <p align="center">
   
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ooeunz.tistory.com/)](http://covenant.tistory.com/)
@@ -27,7 +31,6 @@
 </p>
 
 
-<!--
 **KoEonYack/koeonyack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
