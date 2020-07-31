@@ -1,4 +1,15 @@
 
+# 📣 드라마 바이블 웨일 확장앱 출시
+
+<p align="center">
+  <img src="https://github.com/whale-lab/drama-bible/blob/master/images/readme_cover.png?raw=true" />
+</p>
+<p align="center">
+  <a href="https://store.whale.naver.com/detail/nifdgfjcbdoidcipoeolgfjafcjoljli"> 웨일 스토어 - 드라마바이블</a> 👈 바로가기!
+</p>
+
+
+
 ## 🏃 I'm Covenant! 
 
 <div>
@@ -8,12 +19,12 @@
 
 </div>
 
-<div align=center>
+<p align="center">
   
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ooeunz.tistory.com/)](http://covenant.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yuns994@gmail.com)](21300035@handong.edu)
 
-</div>
+</p>
 
 
 <!--
