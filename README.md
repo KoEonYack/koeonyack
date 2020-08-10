@@ -14,7 +14,7 @@
 
 <div>
 
-👨‍🎓 Department of CSEE at HGU Univㅤ<br />
+👨‍🎓 School Of Computer Science at HGU Univㅤ<br />
 👨‍💻 Junior Server Developer #Go-lang
 
 </div>
