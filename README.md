@@ -38,7 +38,7 @@
 </p>
 
 
-### 👨‍💻 My Github Stats
+### :octocat: My Github Stats
 
 [![Covenant github stats](https://github-readme-stats.vercel.app/api?username=koeonyack&theme=vue&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koeonyack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
