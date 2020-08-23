@@ -15,7 +15,8 @@
 <div>
 
 👨‍🎓 School Of Computer Science at HGU Univㅤ<br />
-👨‍💻 Junior Server Developer #Go-lang
+👨‍💻 Junior Server Developer #Go-lang <br />
+📄 [Resume](https://koeonyack.github.io/resume/)
 
 </div>
 
