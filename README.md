@@ -1,7 +1,24 @@
 
+## 2020 컨트리뷰톤 가비아 후원상
+
+
+
+<div align=center>
+
+![img](./img/contributon.png)
+
+NexClipper Open Source Edition으로 참가하여 가비아 후원상을 받았습니다. <br />
+멘토님들, 함께하신 분들 감사합니다!
+
+[Blog. 2020 컨트리뷰톤 교육 후기](https://covenant.tistory.com/199)
+
+</div>
+
+<br />
+
 <details>
   <summary> 
-    👉 드라마 바이블 웨일 확장앱 출시
+    드라마 바이블 웨일브라우저 확장앱 출시
   </summary>
 
 ## 📣 드라마 바이블 웨일 확장앱 출시
