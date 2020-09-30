@@ -1,4 +1,9 @@
 
+<details>
+  <summary> 
+    👉 드라마 바이블 웨일 확장앱 출시
+  </summary>
+
 ## 📣 드라마 바이블 웨일 확장앱 출시
 
 <p align="center">
@@ -8,15 +13,20 @@
   <a href="https://store.whale.naver.com/detail/nifdgfjcbdoidcipoeolgfjafcjoljli"> 웨일 스토어 - 드라마바이블</a> 👈 바로가기!
 </p>
 
+--------
 
+</details>
 
 ### 🏃 I'm Covenant! 
 
 <div>
+  
+
 
 👨‍🎓 School Of Computer Science at HGU Univㅤ<br />
-👨‍💻 Junior Server Developer #Go-lang <br />
-📄 [Resume](https://koeonyack.github.io/resume/)
+👨‍💻 Junior Server Developer #Go-lang    <br />
+📄 [Resume](https://koeonyack.github.io/resume/) 
+
 
 </div>
 
