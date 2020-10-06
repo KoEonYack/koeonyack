@@ -39,7 +39,7 @@ NexClipper Open Source Edition으로 참가하여 가비아 후원상을 받았�
 
 <br />
 
-👨‍🎓 School Of Computer Science at HGU Univㅤ<br />
+👨‍🎓 Computer Science at HGU Univㅤ<br />
 👨‍💻 Junior Server Developer  #Go-lang  <br />
 
 <!--
