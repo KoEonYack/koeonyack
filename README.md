@@ -1,8 +1,6 @@
 
 ## 2020 컨트리뷰톤 가비아 후원상
 
-
-
 <div align=center>
 
 ![img](./img/contributon.png)
@@ -34,22 +32,19 @@ NexClipper Open Source Edition으로 참가하여 가비아 후원상을 받았�
 
 </details>
 
-### 🏃 I'm Covenant! 
-
-<div align=center>
+<h3> 🏃   I'm Covenant!  </h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-covenant.ko@kakao.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:covenant.ko)](mailto:anima94@kakao.com)
 [![naverblog](https://img.shields.io/badge/Tistory-blog-badge)](http://covenant.tistory.com/)
 
-</div>
-  
-
+<br />
 
 👨‍🎓 School Of Computer Science at HGU Univㅤ<br />
-👨‍💻 Junior Server Developer <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" width="35px"/>  #Go-lang  <br />
+👨‍💻 Junior Server Developer  #Go-lang  <br />
 
 <!--
 📄 [Resume](https://koeonyack.github.io/resume/) 
+<img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" width="35px"/>
 -->
 
 <br />
