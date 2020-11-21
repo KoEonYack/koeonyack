@@ -28,8 +28,6 @@ NexClipper Open Source Edition으로 참가하여 가비아 후원상을 받았�
 </div>
 </details>
 
-<br />
-
 <details>
   <summary>드라마 바이블 웨일브라우저 확장앱 출시
   </summary>
@@ -46,6 +44,9 @@ NexClipper Open Source Edition으로 참가하여 가비아 후원상을 받았�
 --------
 
 </details>
+
+
+--------
 
 <h3> 🏃   I'm Covenant!  </h3>
 
