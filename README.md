@@ -1,7 +1,20 @@
-
-## 2020 컨트리뷰톤 가비아 후원상
+## 🎉 Dev Event 150+ 스타 달성
 
 <div align=center>
+
+![img](./img/dev-event-150.png)
+
+[Dev Event](https://github.com/brave-people/Dev-Event)가 150스타를 달성했습니다. <br />
+방문, PR 그리고 스타 눌러주신 분들 감사합니다. 🙏
+
+<br />
+
+</div>
+
+<br />
+
+<details>
+  <summary>2020 컨트리뷰톤 가비아 후원상</summary>
 
 ![img](./img/contributon.png)
 
@@ -10,13 +23,15 @@ NexClipper Open Source Edition으로 참가하여 가비아 후원상을 받았�
 
 [Blog. 2020 컨트리뷰톤 교육 후기](https://covenant.tistory.com/199)
 
+------------
+
 </div>
+</details>
 
 <br />
 
 <details>
-  <summary> 
-    드라마 바이블 웨일브라우저 확장앱 출시
+  <summary>드라마 바이블 웨일브라우저 확장앱 출시
   </summary>
 
 ## 📣 드라마 바이블 웨일 확장앱 출시
@@ -34,13 +49,11 @@ NexClipper Open Source Edition으로 참가하여 가비아 후원상을 받았�
 
 <h3> 🏃   I'm Covenant!  </h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-covenant.ko@kakao.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:covenant.ko)](mailto:anima94@kakao.com)
+[![Gmail Badge](https://img.shields.io/badge/-21300035@handong.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:covenant.ko)](mailto:21300035@handong.edu)
 [![naverblog](https://img.shields.io/badge/Tistory-blog-badge)](http://covenant.tistory.com/)
 
-<br />
-
-👨‍🎓 Computer Science at HGU Univㅤ<br />
-👨‍💻 Junior Server Developer  #Go-lang  <br />
+👨‍🎓 School Of Computer Science at Handong Global Univㅤ<br />
+👨‍💻 Junior Server Developer <br />
 
 <!--
 📄 [Resume](https://koeonyack.github.io/resume/) 
@@ -48,7 +61,6 @@ NexClipper Open Source Edition으로 참가하여 가비아 후원상을 받았�
 -->
 
 <br />
-
 
 ### 🧰 Languages and Tools
 
