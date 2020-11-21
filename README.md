@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![img](./img/dev-event-150.png)
+![img](./img/dev-event-150-v2.png)
 
 [Dev Event](https://github.com/brave-people/Dev-Event)가 150스타를 달성했습니다. <br />
 방문, PR 그리고 스타 눌러주신 분들 감사합니다. 🙏
@@ -16,6 +16,8 @@
 <details>
   <summary>2020 컨트리뷰톤 가비아 후원상</summary>
 
+<div align=center>
+
 ![img](./img/contributon.png)
 
 NexClipper Open Source Edition으로 참가하여 가비아 후원상을 받았습니다. <br />
@@ -24,6 +26,8 @@ NexClipper Open Source Edition으로 참가하여 가비아 후원상을 받았�
 [Blog. 2020 컨트리뷰톤 교육 후기](https://covenant.tistory.com/199)
 
 ------------
+
+</div>
 
 </div>
 </details>
