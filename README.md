@@ -73,8 +73,15 @@
 
 <h3> 🏃   I'm Covenant!  </h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-21300035@handong.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:covenant.ko)](mailto:21300035@handong.edu)
-[![naverblog](https://img.shields.io/badge/Tistory-blog-badge)](http://covenant.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/-21300035@handong.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:covenant.ko)](mailto:21300035@handong.edu) <a href="https://github.com/KoEonYack"> <a href="https://covenant.tistory.com/">
+<img src="https://img.shields.io/badge/Tistoy_Blog-black?style=flat&logo=Blogger"/></a> 
+<img src="https://img.shields.io/badge/Github-black?style=flat&logo=GitHub"/></a> 
+
+<!--
+[![naverblog](https://img.shields.io/badge/Tistory-blog-badge)](https://covenant.tistory.com/)
+<a href="https://www.linkedin.com/in/%EC%96%B8%EC%95%BD-%EA%B3%A0-6823901b5/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn"/></a> 
+-->
 
 👨‍🎓 School Of Computer Science at Handong Global Univㅤ<br />
 👨‍💻 Junior Server Developer <br />
