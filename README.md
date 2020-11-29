@@ -6,7 +6,8 @@
 
 [github.com/brave-people/brave-member](https://github.com/brave-people/brave-member)
 
-" 용감한 친구들 "(이하 용친)은 HGU 출신 개발자들의 모임입니다. <br />
+" 용감한 친구들 "(이하 용친)은 20년 07월 HGU(남송리 삼번지) 출신 개발자들의 모임으로 시작했습니다. <br />
+꿈 많고 도전하려는 사람이면 용감이가 될 수 있습니다.<br />
 현재 [데브 이벤트](https://github.com/brave-people/Dev-Event)를 관리중이며 데브이벤트 Client, Server를 개발중에 있습니다.
 
 </div>
