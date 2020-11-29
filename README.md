@@ -1,38 +1,62 @@
 ## 🎉 Dev Event 150+ 스타 달성
 
+
+
+
+## " 용감한 친구들 " 용감이를 소개합니다. 
+
 <div align=center>
 
-![img](./img/dev-event-150-v3.png)
+![img](./img/brave-member.png)
 
-[Dev Event](https://github.com/brave-people/Dev-Event)가 150스타를 달성했습니다. <br />
-방문, PR 그리고 스타 눌러주신 분들 감사합니다. 🙏
+[github.com/brave-people/brave-member](https://github.com/brave-people/brave-member)
 
-<br />
+" 용감한 친구들 "(이하 용친)은 HGU 출신 개발자들의 모임입니다. <br />
+현재 [데브 이벤트](https://github.com/brave-people/Dev-Event)를 관리중이며 데브이벤트 Client, Server를 개발중에 있습니다.
 
 </div>
 
 <br />
 
 <details>
+  <summary>Dev Event 150+ 스타 달성</summary>
+
+  ## 🎉 Dev Event 150+ 스타 달성
+
+  <div align=center>
+
+  ![img](./img/dev-event-150-v3.png)
+
+  [Dev Event](https://github.com/brave-people/Dev-Event)가 150스타를 달성했습니다. <br />
+  방문, PR 그리고 스타 눌러주신 분들 감사합니다. 🙏
+
+--------------
+
+  </div>
+</details>
+
+<br />
+
+<details>
   <summary>2020 컨트리뷰톤 가비아 후원상</summary>
 
-## 2020 컨트리뷰톤 가비아 후원상
+  ## 2020 컨트리뷰톤 가비아 후원상
 
-<div align=center>
+  <div align=center>
 
-![img](./img/contributon.png)
+  ![img](./img/contributon.png)
 
-NexClipper Open Source Edition으로 참가하여 가비아 후원상을 받았습니다. <br />
-멘토님들, 함께하신 분들 감사합니다!
+  NexClipper Open Source Edition으로 참가하여 가비아 후원상을 받았습니다. <br />
+  멘토님들, 함께하신 분들 감사합니다!
 
-[Blog. 2020 컨트리뷰톤 교육 후기](https://covenant.tistory.com/199)
+  [Blog. 2020 컨트리뷰톤 교육 후기](https://covenant.tistory.com/199)
 
-------------
+  ------------
 
-</div>
-
-</div>
+  </div>
 </details>
+
+<br />
 
 <details>
   <summary>드라마 바이블 웨일브라우저 확장앱 출시
