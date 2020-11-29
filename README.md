@@ -1,8 +1,3 @@
-## 🎉 Dev Event 150+ 스타 달성
-
-
-
-
 ## " 용감한 친구들 " 용감이를 소개합니다. 
 
 <div align=center>
@@ -35,7 +30,6 @@
   </div>
 </details>
 
-<br />
 
 <details>
   <summary>2020 컨트리뷰톤 가비아 후원상</summary>
@@ -55,8 +49,6 @@
 
   </div>
 </details>
-
-<br />
 
 <details>
   <summary>드라마 바이블 웨일브라우저 확장앱 출시
