@@ -1,17 +1,39 @@
-## " 용감한 친구들 " 용감이를 소개합니다. 
+## 🎈 Dev Event Web(Beta) 공개~
 
 <div align=center>
 
-![img](./img/brave-member2.png)
+![img](./img/dev-event-web.png)
 
-[용감한 친구들 맴버 페이지](https://brave-people.github.io/brave-member/)
+[Dev event 바로가기](https://brave-people.github.io/Dev-Event-Client/)
 
-"용감한 친구들"은 20년 07월 HGU(남송리 삼번지) 출신 개발자들의 모임으로 시작했습니다. <br />
-현재 [데브 이벤트](https://github.com/brave-people/Dev-Event)를 관리중이며 데브이벤트 Client, Server를 개발중에 있습니다.
+"용감한 친구들"의 프로젝트 Dev event의 Web 버전이 공개되었습니다! 
+멋진 프로젝트를를 발전시켜준 [@Woohwahwa](https://github.com/Woohwahwa) 감사합니다!
+
+👀[용감한 친구들 맴버 보러가기](https://brave-people.github.io/brave-member/)👀
 
 </div>
 
 <br />
+
+<details>
+  <summary>" 용감한 친구들 " 용감이를 소개합니다. </summary>
+
+  ## " 용감한 친구들 " 용감이를 소개합니다. 
+
+  <div align=center>
+
+  ![img](./img/brave-member2.png)
+
+  [용감한 친구들 맴버 페이지](https://brave-people.github.io/brave-member/)
+
+  "용감한 친구들"은 20년 07월 HGU(남송리 삼번지) 출신 개발자들의 모임으로 시작했습니다. <br />
+  현재 [데브 이벤트](https://github.com/brave-people/Dev-Event)를 관리중이며 데브이벤트 Client, Server를 개발중에 있습니다.
+
+-----------
+
+</div>
+
+</details>
 
 <details>
   <summary>Dev Event 150+ 스타 달성</summary>
