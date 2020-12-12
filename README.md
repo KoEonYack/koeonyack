@@ -6,8 +6,8 @@
 
 [Dev event 바로가기](https://brave-people.github.io/Dev-Event-Client/)
 
-"용감한 친구들"의 프로젝트 Dev event의 Web 버전이 공개되었습니다! 
-멋진 프로젝트를를 발전시켜준 [@Woohwahwa](https://github.com/Woohwahwa) 감사합니다!
+"용감한 친구들"의 프로젝트 Dev event의 Web 버전이 공개되었습니다! <br />
+멋진 프로젝트를 발전시켜준 [@Woohwahwa](https://github.com/Woohwahwa) 감사합니다!
 
 👀[용감한 친구들 맴버 보러가기](https://brave-people.github.io/brave-member/)👀
 
@@ -94,7 +94,8 @@
 
 <h3> 🏃   I'm Covenant!  </h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-21300035@handong.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:covenant.ko)](mailto:21300035@handong.edu) <a href="https://github.com/KoEonYack"> <a href="https://covenant.tistory.com/">
+[![Gmail Badge](https://img.shields.io/badge/-21300035@handong.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:covenant.ko)](mailto:21300035@handong.edu) <a href="https://github.com/KoEonYack"> <a href="https://covenant.tistory.com/"><a href="https://www.linkedin.com/in/%EC%96%B8%EC%95%BD-%EA%B3%A0-6823901b5/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn"/></a> 
 <img src="https://img.shields.io/badge/Tistoy_Blog-black?style=flat&logo=Blogger"/></a> 
 <img src="https://img.shields.io/badge/Github-black?style=flat&logo=GitHub"/></a> 
 
@@ -104,7 +105,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn"/></a> 
 -->
 
-👨‍🎓 School Of Computer Science at Handong Global Univㅤ<br />
+👨‍🎓 School of Computer Science at Handong Global Univㅤ<br />
 👨‍💻 Junior Server Developer <br />
 
 <!--
@@ -113,6 +114,10 @@
 -->
 
 <br />
+
+---------------
+
+<!-- 
 
 ### 🧰 Languages and Tools
 
@@ -129,7 +134,7 @@
   
 </code>
 </p>
-  
+-->
 
 ### :octocat: My Github Stats
 
