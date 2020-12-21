@@ -1,6 +1,14 @@
-## 🎈 Dev Event Web(Beta) 공개~
+## 🎈 Dev Event Web + Whale App(Beta) 공개~
 
 <div align=center>
+
+![img](./img/dev-event-whale-2.png)
+
+Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
+
+[Whale Store Link](https://store.whale.naver.com/detail/peoakdpkgaaddnccepdmgnjghelkdein)
+
+-------------
 
 ![img](./img/dev-event-web.png)
 
