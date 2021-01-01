@@ -1,6 +1,6 @@
 <div align=center>
 
-![img](./img/11-logo.png)
+![img](./img/11-logo-v2.png)
 
 Join 21. 01. 04 ~
 
