@@ -1,3 +1,16 @@
+<div align=center>
+
+![img](./img/11-logo.png)
+
+Join 21. 01. 04 ~
+
+</div>
+
+<br />
+
+<details>
+  <summary>Dev Event Web + Whale App(Beta) 공개 </summary>
+
 ## 🎈 Dev Event Web + Whale App(Beta) 공개~
 
 <div align=center>
@@ -19,12 +32,14 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 
 👀[용감한 친구들 맴버 보러가기](https://brave-people.github.io/brave-member/)👀
 
+-----------
+
 </div>
 
-<br />
+</details>
 
 <details>
-  <summary>" 용감한 친구들 " 용감이를 소개합니다. </summary>
+  <summary>"용감한 친구들" 용감이를 소개합니다. </summary>
 
   ## " 용감한 친구들 " 용감이를 소개합니다. 
 
