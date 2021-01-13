@@ -117,9 +117,9 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 
 <h3> 🏃   I'm Covenant!  </h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-21300035@handong.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:covenant.ko)](mailto:21300035@handong.edu) <a href="https://github.com/KoEonYack"> <a href="https://covenant.tistory.com/"><a href="https://www.linkedin.com/in/%EC%96%B8%EC%95%BD-%EA%B3%A0-6823901b5/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn"/></a> 
-<img src="https://img.shields.io/badge/Tistoy_Blog-black?style=flat&logo=Blogger"/></a> 
+[![Gmail Badge](https://img.shields.io/badge/-21300035@handong.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:covenant.ko)](mailto:21300035@handong.edu) <a href="https://github.com/KoEonYack"> <a href="https://www.linkedin.com/in/%EC%96%B8%EC%95%BD-%EA%B3%A0-6823901b5/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn"/></a><a href="https://covenant.tistory.com/">
+<img src="https://img.shields.io/badge/Tistoy_Blog-black?style=flat&logo=Blogger"/></a> <a href="https://github.com/KoEonYack">
 <img src="https://img.shields.io/badge/Github-black?style=flat&logo=GitHub"/></a> 
 
 <!--
@@ -161,8 +161,18 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 
 ### :octocat: My Github Stats
 
+<!--
 [![Covenant github stats](https://github-readme-stats.vercel.app/api?username=koeonyack&theme=vue&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koeonyack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+<table id="stats"><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=koeonyack&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td>
+<td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koeonyack&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr>
+</table>  
 
 
 <!--
