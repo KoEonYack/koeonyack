@@ -49,7 +49,7 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 
   ![img](./img/brave-member2.png)
 
-  [용감한 친구들 맴버 페이지](https://brave-people.github.io/brave-member/)
+  [용감한 친구들 맴버 페이지](https://github.com/brave-people/BRAVE-Member)
 
   "용감한 친구들"은 20년 07월 HGU(남송리 삼번지) 출신 개발자들의 모임으로 시작했습니다. <br />
   현재 [데브 이벤트](https://github.com/brave-people/Dev-Event)를 관리중이며 데브이벤트 Client, Server를 개발중에 있습니다.
