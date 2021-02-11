@@ -6,10 +6,14 @@ Join 21. 01. 04 ~
 
 </div>
 
+------------------
+
 <br />
 
+### ⏰Timeline
+
 <details>
-  <summary>Dev Event Web + Whale App(Beta) 공개 </summary>
+  <summary>[20. 12. 21] Dev Event Web + Whale App(Beta) 공개 </summary>
 
 ## 🎈 Dev Event Web + Whale App(Beta) 공개~
 
@@ -30,7 +34,7 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 "용감한 친구들"의 프로젝트 Dev event의 Web 버전이 공개되었습니다! <br />
 멋진 프로젝트를 발전시켜준 [@Woohwahwa](https://github.com/Woohwahwa) 감사합니다!
 
-👀[용감한 친구들 맴버 보러가기](https://brave-people.github.io/brave-member/)👀
+👀[용감한 친구들 맴버 보러가기](https://brave-people.github.io/BRAVE-Member/)👀
 
 -----------
 
@@ -39,7 +43,7 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 </details>
 
 <details>
-  <summary>"용감한 친구들" 용감이를 소개합니다. </summary>
+  <summary>[20. 11. 29] "용감한 친구들" 용감이를 소개합니다. </summary>
 
   ## " 용감한 친구들 " 용감이를 소개합니다. 
 
@@ -59,7 +63,7 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 </details>
 
 <details>
-  <summary>Dev Event 150+ 스타 달성</summary>
+  <summary>[20. 11. 21] Dev Event 150+ 스타 달성</summary>
 
   ## 🎉 Dev Event 150+ 스타 달성
 
@@ -77,7 +81,7 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 
 
 <details>
-  <summary>2020 컨트리뷰톤 가비아 후원상</summary>
+  <summary>[20. 09. 30] 2020 컨트리뷰톤 가비아 후원상</summary>
 
   ## 2020 컨트리뷰톤 가비아 후원상
 
@@ -96,7 +100,7 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 </details>
 
 <details>
-  <summary>드라마 바이블 웨일브라우저 확장앱 출시
+  <summary>[20. 07. 31] 드라마 바이블 웨일브라우저 확장앱 출시
   </summary>
 
 ## 📣 드라마 바이블 웨일 확장앱 출시
@@ -129,11 +133,12 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 -->
 
 👨‍🎓 School of Computer Science at Handong Global Univㅤ<br />
-👨‍💻 Junior Server Developer <br />
+👨‍💻 11st Server Developer <br />
+🦸‍♂️ Member of 용감한 친구들([@brave-people](https://github.com/brave-people)) <br />
+🦄 [Dev Event](https://github.com/brave-people/Dev-Event), [Awesome Dev Study](https://github.com/brave-people/Awesome-Dev-Study) maintainer <br />
 
 <!--
 📄 [Resume](https://koeonyack.github.io/resume/) 
-<img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" width="35px"/>
 -->
 
 <br />
@@ -166,25 +171,8 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 
 
 <!--
-
 <p align="center">
-  
 [![Tech Blog Badge](https://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ooeunz.tistory.com/)](http://covenant.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yuns994@gmail.com)](21300035@handong.edu)
-
 </p>
-
-
-**KoEonYack/koeonyack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...x
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
