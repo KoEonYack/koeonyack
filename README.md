@@ -22,11 +22,16 @@
 
 <details>
   <summary>[21. 01. 02] 11st </summary>
-  <div align=center>
 
-  ![img](./img/11-logo-v2.png)
+## 11st
 
-  Join 21. 01. 04 ~
+<div align=center>
+
+![img](./img/11-logo-v2.png)
+
+Join 21. 01. 04 ~
+
+-----------
 
   </div>
 </details>
