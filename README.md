@@ -1,7 +1,7 @@
   <div align=center>
 
 <p align="center">
-  <img src="./img/11st-bootcamp.png?raw=true" style="border:1px solid #eaeaea;" width="70%"/>
+  <img src="./img/11st-bootcamp-v2.png?raw=true" style="border:1px; solid #eaeaea;" width="70%"/>
 </p>
 <p align="center">
 
