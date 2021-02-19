@@ -1,14 +1,35 @@
-<div align=center>
+  <div align=center>
 
-![img](./img/11-logo-v2.png)
+<p align="center">
+  <img src="./img/11st-bootcamp.png?raw=true" width="70%"/>
+</p>
+<p align="center">
 
-Join 21. 01. 04 ~
+  11st Boot Course (01. 11 ~ 02. 16)
 
+  <br />
+  <a href="https://github.com/KoEonYack/11st-main-clone-vue"> Repo. 11sᴛʀᴇᴇᴛ 메인페이지 클론</a>  <br />
+  <a href="https://github.com/KoEonYack/introduce-myself-spring"> Repo. 안녕 나야 넌 누규니</a>  <br />
+  <a href="https://github.com/KoEonYack/java-baseball"> Repo. next-step: 숫자 야구게임  </a>
+</p>
+<br />
 </div>
 
 ------------------
 
 ### ⏰Timeline
+
+
+<details>
+  <summary>[21. 01. 02] 11st </summary>
+  <div align=center>
+
+  ![img](./img/11-logo-v2.png)
+
+  Join 21. 01. 04 ~
+
+  </div>
+</details>
 
 <details>
   <summary>[20. 12. 21] Dev Event Web + Whale App(Beta) 공개 </summary>
