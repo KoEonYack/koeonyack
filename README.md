@@ -156,18 +156,40 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn"/></a> 
 -->
 
+- 📄 [Riss. A Survey of Open-source Static Bug Checkers for Detecting Security Vulnerabilities in Python Web Applications](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=a6ad7eeb5b6e185ec85d2949c297615a)
 - 👨‍🎓  School of Computer Science at Handong Global University<br />
 - 👨‍💻  11st Server Developer <br />
 - 🦸‍♂️  Member of 용감한 친구들([@brave-people](https://github.com/brave-people)) <br />
 - 🦄  Open source maintainer
   - [Dev Event](https://github.com/brave-people/Dev-Event): 아낌없이 개발자 행사를 알려드립니다. (⭐ 700+)
   - [Awesome Dev Contents](https://github.com/brave-people/Awesome-Dev-Contents): 멋진 개발 자료 여기서 찾아요. (⭐ 0+)
-  - [Brave Tech Interview](https://github.com/brave-people/brave-tech-interview): 국내 IT기업부터 실리콘벨리까지 기술면접 문제를 현직자가 해설해줍니다. (⭐ 20+)
+  - [Brave Tech Interview](https://github.com/brave-people/brave-tech-interview): 국내 IT기업부터 실리콘벨리까지 기술면접 문제를 현직자가 해설해줍니다. (⭐ 30+)
 - 🧚 Open source contribution
   - [nhn / tui.editor. fix: typo](https://github.com/nhn/tui.editor/pull/1189)
   - [Klevry / klevr](https://github.com/Klevry/klevr)
 
-<br />
+<details>
+  <summary> 2017~2020 TA History (👈  Click)</summary>
+  <ul>
+    <li> <b> 01. </b> 17년 08월 - 17년 12월: 한동대학교 파이썬 프로그래밍 17-2학기 Tutor </li>
+    <li> <b> 02. </b> 17년 12월 - 18년 01월: 한동대학교 C 프로그래밍 겨울계절학기 TA </li>
+    <li> <b> 03. </b> 18년 08월 - 18년 12월: 한동대학교 C 프로그래밍 18-2학기 TA </li>
+    <li> <b> 04. </b> 18년 12월 - 19년 01월: 한동대학교 C 프로그래밍 겨울계절학기 TA </li>
+    <li> <b> 05. </b> <a href="https://github.com/idebtor/JoyAI">18년 12월 - 19년 01월: 한동대학교 모두를 위한 인공지능의 활용 교재 제작</a> </li>
+    <li> <b> 06. </b> 18년 12월 - 19년 02월: 포항 오*고등학교 사회봉사 파이썬 강의 </li>
+    <li> <b> 07. </b> 19년 01월 - 19년 01월: 한동대학교 소프트웨어 입문 예비대학 TA </li>
+    <li> <b> 08. </b> 19년 03월 - 19년 06월: 한동대학교 소프트웨어 입문 19-1학기 TA </li>
+    <li> <b> 09. </b> 19년 03월 - 19년 06월: 한동대학교 모두를 위한 인공지능의 활용 19-1학기 TA </li>
+    <li> <b> 10. </b> 19년 08월 - 19년 12월: 한동대학교 모두를 위한 인공지능의 활용 19-2학기 TA </li>
+    <li> <b> 11. </b> 19년 08월 - 19년 12월: K-MOOC 파이썬으로 배우는 기계학습 입문 19-2학기 강좌운영 TA </li>
+    <li> <b> 12. </b> 19년 08월 - 19년 12월: 한동대학교 C프로그래밍 19-1학기 TA </li>
+    <li> <b> 13. </b> 20년 03월 - 20년 06월: 한동대학교 모두를 위한 인공지능의 활용 20-1학기 TA </li>
+    <li> <b> 14. </b> 20년 03월 - 20년 06월: 한동대학교 소프트웨어 입문 20-1학기 TA </li>
+    <li> <b> 15. </b> <a href="http://www.kmooc.kr/courses/course-v1:HGUk+HGU05+2020_T2/about"> 20년 03월 - 20년 06월: K-MOOC 파이썬으로 배우는 기계학습 입문 20-1학기 강좌운영 TA </a> </li>
+    <li> <b> 16. </b> <a href="https://cb.kmooc.kr/courses/5f35d87e459eb976f35341c3"> 20년 09월 - 20년 12월: K-MOOC 학점은행제 파이썬으로 배우는 기계학습 입문 20-2학기 강좌운영 TA </a> </li>
+  </ul>
+  </div>
+</details>
 
 <!--
 📄 [Resume](https://koeonyack.github.io/resume/) 
