@@ -11,8 +11,6 @@
 
 [Dev Evemt 1000스타 후기](https://covenant.tistory.com/232)
 </div>
-<br />
-</div>
 
 ------------------
 
