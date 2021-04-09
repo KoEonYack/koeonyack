@@ -10,7 +10,6 @@
 이용해 주시는분들, PR을 통해 행사를 알려주신 분들 감사합니다.
 
 [Dev Evemt 1000스타 후기](https://covenant.tistory.com/232)
-
 </div>
 <br />
 </div>
