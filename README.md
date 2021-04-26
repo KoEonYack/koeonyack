@@ -1,3 +1,25 @@
+## 용감한 친구들 네 번째 프로젝트
+
+<p align="center">
+  <img src="./img/career.png?raw=true" style="border:1px; solid #eaeaea;" width="85%"/>
+</p>
+
+<div align="center">
+
+Brave Crew인 [@osj3474](https://github.com/osj3474)의 프로젝트인 <br />
+용친 4번째 프로젝트 Brave Career를 공개합니다. <br />
+
+[Brave Career](https://github.com/brave-people/Brave-Career) 👈 바로가기!
+
+</div>
+
+------------------
+
+### ⏰Timeline
+
+<details>
+  <summary>[21. 04. 10] Dev Event 1000+ 스타 달성 </summary>
+
 ## Dev Event 1000+ 스타 달성
 
 <p align="center">
@@ -12,9 +34,9 @@
 [Dev Evemt 1000스타 후기](https://covenant.tistory.com/232)
 </div>
 
-------------------
+--------------
 
-### ⏰Timeline
+</details>
 
 <details>
   <summary>[21. 02. 19] 11st x FastCampus Beginning Course </summary>
