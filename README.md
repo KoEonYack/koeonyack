@@ -18,9 +18,9 @@
 
 
 <details>
-  <summary>[21. 02. 19] 11st x FastCampus Beginning Course </summary>
+  <summary>[21. 04. 07] Dev Event 1000+ 스타 </summary>
 
-## Dev Event 1000+ 스타 달성
+## Dev Event 1000+ 스타 
 
 <p align="center">
   <img src="./img/1000dev-event.png?raw=true" style="border:1px; solid #eaeaea;" width="70%"/>
