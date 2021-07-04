@@ -16,6 +16,9 @@
 
 ### ⏰Timeline
 
+<details>
+  <summary>(👈 Open) </summary>
+<br />
 
 <details>
   <summary>[21. 04. 07] Dev Event 1000+ 스타 </summary>
@@ -172,7 +175,10 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
   <a href="https://store.whale.naver.com/detail/nifdgfjcbdoidcipoeolgfjafcjoljli"> 웨일 스토어 - 드라마바이블</a> 👈 바로가기!
 </p>
 
+
 --------
+
+</details>
 
 </details>
 
@@ -181,16 +187,19 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 
 <h3> 🏃   I'm Covenant!  </h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-21300035@handong.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:covenant.ko)](mailto:21300035@handong.edu) <a href="https://github.com/KoEonYack"> <a href="https://www.linkedin.com/in/%EC%96%B8%EC%95%BD-%EA%B3%A0-6823901b5/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn"/></a><a href="https://covenant.tistory.com/">
-<img src="https://img.shields.io/badge/Tistoy_Blog-black?style=flat&logo=Blogger"/></a> <a href="https://github.com/KoEonYack">
-<img src="https://img.shields.io/badge/Github-black?style=flat&logo=GitHub"/></a> 
+<a href="https://www.linkedin.com/in/covenant/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://covenant.tistory.com/">
+<img src="https://img.shields.io/badge/-Tech%20Blog-blue?style=for-the-badge" />
+</a>
+<a href="https://www.slideshare.net/ssuser8f4c99">
+<img src="https://img.shields.io/badge/-Slide%20Share-blueviolet?style=for-the-badge" />
+</a>
 
-<!--
-[![naverblog](https://img.shields.io/badge/Tistory-blog-badge)](https://covenant.tistory.com/)
-<a href="https://www.linkedin.com/in/%EC%96%B8%EC%95%BD-%EA%B3%A0-6823901b5/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn"/></a> 
--->
+<details>
+  <summary>(👈 Open) </summary>
+<br />
 
 - 📄 [Riss. A Survey of Open-source Static Bug Checkers for Detecting Security Vulnerabilities in Python Web Applications](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=a6ad7eeb5b6e185ec85d2949c297615a)
 - 👨‍🎓  School of Computer Science at Handong Global University<br />
@@ -227,11 +236,11 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
   </div>
 </details>
 
+</details>
+
 <!--
 📄 [Resume](https://koeonyack.github.io/resume/) 
 -->
-
-<br />
 
 ---------------
 
@@ -261,6 +270,9 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koeonyack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<details>
+  <summary>(👈 Open) </summary>
+<br />
 <table id="stats"><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=koeonyack&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 </td>
@@ -269,6 +281,9 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 </td></tr>
 </table>  
 
+</details>
+
+-------------
 
 <!--
 <p align="center">
