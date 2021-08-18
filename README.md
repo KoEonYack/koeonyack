@@ -1,7 +1,7 @@
 <!-- ## Brave Tech Interview 1000+ 스타 -->
 
 <p align="center">
-  <img src="./img/brave-1year-v1.png?raw=true" style="border:1px; solid #eaeaea;" width="70%"/>
+  <img src="./img/brave-1year-v1.png?raw=true" style="border:1px; solid #eaeaea;" width=""/>
 </p>
 
 ------------------
