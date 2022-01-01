@@ -1,8 +1,23 @@
-<!-- ## Brave Tech Interview 1000+ 스타 -->
+<br />
 
-<p align="center">
-  <img src="./img/brave-1year-v1.png?raw=true" style="border:1px; solid #eaeaea;" width=""/>
-</p>
+<table>
+<tr>
+  <td valign="top" width="50%">
+    <a href="https://covenant.tistory.com/264">
+      <img src="./img/22_01_01_card/banner1.png" align="left" style="width: 98%" />
+    </a>
+  </td>
+  <td valign="top" width="50%">
+    <a href="https://covenant.tistory.com/265">
+      <img src="./img/22_01_01_card/banner2.png" align="left" style="width: 98%" />
+    </a>
+  </td>
+</tr>
+</table>  
+
+> *배너 클릭시 블로그 링크로 이동합니다.
+
+<br />
 
 ------------------
 
@@ -12,6 +27,16 @@
   <summary>(👈 Open) </summary>
 <br />
 
+<details>
+  <summary>[21. 08. 18] Brave Tech Interview 1000+ 스타 </summary>
+
+<p align="center">
+  <img src="./img/brave-1year-v1.png?raw=true" style="border:1px; solid #eaeaea;" width=""/>
+</p>
+
+------------------
+
+</details>
 <details>
   <summary>[21. 06. 05] Brave Tech Interview 1000+ 스타 </summary>
 
@@ -210,9 +235,9 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 - 👨‍💻  11st Server Developer <br />
 - 🦸‍♂️  Member of 용감한 친구들([@brave-people](https://github.com/brave-people)) <br />
 - 🦄  Open source maintainer
-  - [Dev Event](https://github.com/brave-people/Dev-Event): 아낌없이 개발자 행사를 알려드립니다. (⭐ 1600+)
-  - [Brave Tech Interview](https://github.com/brave-people/brave-tech-interview): 국내 IT기업부터 실리콘벨리까지 기술면접 문제를 현직자가 해설해줍니다. (⭐ 1300+)
-  - [Awesome Dev Contents](https://github.com/brave-people/Awesome-Dev-Contents): 멋진 개발 자료 여기서 찾아요. (⭐ 90+)
+  - [Dev Event](https://github.com/brave-people/Dev-Event): 아낌없이 개발자 행사를 알려드립니다. (⭐ 2200+)
+  - [Brave Tech Interview](https://github.com/brave-people/brave-tech-interview): 국내 IT기업부터 실리콘벨리까지 기술면접 문제를 현직자가 해설해줍니다. (⭐ 1800+)
+  - [Awesome Dev Contents](https://github.com/brave-people/Awesome-Dev-Contents): 멋진 개발 자료 여기서 찾아요. (⭐ 300+)
 
 - 🧚 Open source contribution
   - [nhn / tui.editor. fix: typo](https://github.com/nhn/tui.editor/pull/1189)
