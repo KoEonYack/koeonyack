@@ -28,7 +28,7 @@
 <br />
 
 <details>
-  <summary>[21. 08. 18] Brave Tech Interview 1000+ 스타 </summary>
+  <summary>[21. 08. 18] 용감한 1주년 </summary>
 
 <p align="center">
   <img src="./img/brave-1year-v1.png?raw=true" style="border:1px; solid #eaeaea;" width=""/>
