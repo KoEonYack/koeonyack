@@ -1,5 +1,53 @@
 <br />
 
+<div align=center>
+<img src="./img/dev-event-new-web.png?raw=true">
+
+<br />
+<br />
+
+👉 [데브 이벤트 웹 바로가기](https://dev-event.vercel.app/events)
+
+<br />
+
+☀️ 함께한 친구들 ☀️
+<br />
+
+웹 프론트 개발자: [ohh31](https://github.com/ohh31) <br />
+백엔드 개발자: [covenant](https://github.com/KoEonYack), [osj3474](https://github.com/osj3474) <br />
+관리자 기획 & 디자인: [covenant](https://github.com/KoEonYack) <br />
+관리자 프론트 개발자: [leedoopal](https://github.com/leedoopal) <br />
+웹 디자이너: KEN
+
+<br />
+</div>
+
+------------------
+
+### ⏰ Timeline
+
+<details>
+  <summary>(👈 Open) </summary>
+<br />
+
+<details>
+  <summary>[22. 01. 02] UPF 수료 </summary>
+
+<p align="center">
+  <img src="./img/upf.jpg?raw=true" style="border:1px; solid #eaeaea;" width="95%"/>
+</p>
+
+<div align="center">
+
+👉 [UPF 후기 읽으러가기](https://covenant.tistory.com/232)
+
+</div>
+
+------------------
+</details>
+<details>
+  <summary>[22. 01. 02] 2021 회고 </summary>
+
 <table>
 <tr>
   <td valign="top" width="50%">
@@ -17,16 +65,9 @@
 
 > *배너 클릭시 블로그 링크로 이동합니다.
 
-<br />
-
 ------------------
 
-### ⏰ Timeline
-
-<details>
-  <summary>(👈 Open) </summary>
-<br />
-
+</details>
 <details>
   <summary>[21. 08. 18] 용감한 1주년 </summary>
 
@@ -303,10 +344,10 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
   <summary>(👈 Open) </summary>
 <br />
 <table id="stats"><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=koeonyack&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=koeonyack&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 98%" />
 </td>
 <td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koeonyack&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koeonyack&hide_border=true&layout=compact" align="left" style="width: 98%" />
 </td></tr>
 </table>  
 
