@@ -1,5 +1,7 @@
 <br />
 
+## 🎈 데브 이벤트 웹에서 만나요!
+
 <div align=center>
 <img src="./img/dev-event-new-web.png?raw=true">
 
@@ -31,7 +33,7 @@
 <br />
 
 <details>
-  <summary>[22. 01. 02] UPF 수료 </summary>
+  <summary>[22. 06. 18] UPF 수료 </summary>
 
 <p align="center">
   <img src="./img/upf.jpg?raw=true" style="border:1px; solid #eaeaea;" width="95%"/>
