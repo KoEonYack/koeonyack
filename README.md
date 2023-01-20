@@ -1,7 +1,5 @@
 <div align=center>
-<img src="./img/naver.png?raw=true" />
-<!-- <img src="https://user-images.githubusercontent.com/67247530/213620672-79ac8faa-306b-4f1a-bdec-8285b70e2d55.png?raw=true" /> -->
-<!--  -->
+<img src="https://github.com/KoEonYack/koeonyack/blob/master/img/naver.png?raw=true" />
 <!-- https://youtu.be/CG7sdnB1ZvM  -->
 <br />
 <br />
@@ -12,7 +10,7 @@ NAVER WEBTOON <br />
 <br />
 
 <a href="https://covenant.tistory.com/275">
-  <img src="./img/naverwebtoon_banner.png?raw=true" />
+  <img src="./img/naverwebtoon_banner_v2.png?raw=true" />
 </a>
 
 *배너 클릭시 블로그 글로 이동됩니다.
