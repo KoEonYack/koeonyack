@@ -1,9 +1,40 @@
+<div align=center>
+<img src="./img/naver.png?raw=true" />
+<!-- <img src="https://user-images.githubusercontent.com/67247530/213620672-79ac8faa-306b-4f1a-bdec-8285b70e2d55.png?raw=true" /> -->
+<!--  -->
+<!-- https://youtu.be/CG7sdnB1ZvM  -->
 <br />
+<br />
+
+NAVER WEBTOON <br />
+(22. 10. 31 ~ )
+
+<br />
+
+<a href="https://covenant.tistory.com/275">
+  <img src="./img/naverwebtoon_banner.png?raw=true" />
+</a>
+
+*배너 클릭시 블로그 글로 이동됩니다.
+
+<br />
+</div>
+
+------------------------------------------------------------
+
+### ⏰ Timeline
+
+<details>
+  <summary>(👈 Open) </summary>
+<br />
+
+<details>
+  <summary>[22. 07. 15] 🎈 데브 이벤트 웹에서 만나요! </summary>
 
 ## 🎈 데브 이벤트 웹에서 만나요!
 
 <div align=center>
-<img src="./img/dev-event-new-web.png?raw=true">
+<img src="https://github.com/KoEonYack/koeonyack/blob/master/img/dev-event-new-web.png?raw=true">
 
 <br />
 <br />
@@ -24,19 +55,12 @@
 <br />
 </div>
 
-------------------
-
-### ⏰ Timeline
-
-<details>
-  <summary>(👈 Open) </summary>
-<br />
-
+</details>
 <details>
   <summary>[22. 06. 18] UPF 수료 </summary>
 
 <p align="center">
-  <img src="./img/upf.jpg?raw=true" style="border:1px; solid #eaeaea;" width="95%"/>
+  <img src="https://github.com/KoEonYack/koeonyack/blob/master/img/upf.jpg?raw=true" style="border:1px; solid #eaeaea;" width="95%"/>
 </p>
 
 <div align="center">
@@ -54,12 +78,12 @@
 <tr>
   <td valign="top" width="50%">
     <a href="https://covenant.tistory.com/264">
-      <img src="./img/22_01_01_card/banner1.png" align="left" style="width: 98%" />
+      <img src="https://github.com/KoEonYack/koeonyack/blob/master/img/22_01_01_card/banner1.png?raw=true" align="left" style="width: 98%" />
     </a>
   </td>
   <td valign="top" width="50%">
     <a href="https://covenant.tistory.com/265">
-      <img src="./img/22_01_01_card/banner2.png" align="left" style="width: 98%" />
+      <img src="https://github.com/KoEonYack/koeonyack/blob/master/img/22_01_01_card/banner2.png?raw=true" align="left" style="width: 98%" />
     </a>
   </td>
 </tr>
@@ -74,7 +98,7 @@
   <summary>[21. 08. 18] 용감한 1주년 </summary>
 
 <p align="center">
-  <img src="./img/brave-1year-v1.png?raw=true" style="border:1px; solid #eaeaea;" width=""/>
+  <img src="https://github.com/KoEonYack/koeonyack/blob/master/img/brave-1year-v1.png?raw=true" style="border:1px; solid #eaeaea;" width=""/>
 </p>
 
 ------------------
@@ -86,7 +110,7 @@
 ## Brave Tech Interview 1000+ 스타
 
 <p align="center">
-  <img src="./img/silicon_valley.jpg?raw=true" style="border:1px; solid #eaeaea;" width="70%"/>
+  <img src="https://github.com/KoEonYack/koeonyack/blob/master/img/silicon_valley.jpg?raw=true" style="border:1px; solid #eaeaea;" width="70%"/>
 </p>
 
 <div align="center">
@@ -108,7 +132,7 @@
 ## Dev Event 1000+ 스타 
 
 <p align="center">
-  <img src="./img/1000dev-event.png?raw=true" style="border:1px; solid #eaeaea;" width="70%"/>
+  <img src="https://github.com/KoEonYack/koeonyack/blob/master/img/1000dev-event.png?raw=true" style="border:1px; solid #eaeaea;" width="70%"/>
 </p>
 
 <div align="center">
@@ -129,7 +153,7 @@
 ## 11st Beginning Course (01. 11 ~ 02. 16)
 
 <p align="center">
-  <img src="./img/11st-bootcamp-v2.png?raw=true" style="border:1px; solid #eaeaea;" width="70%"/>
+  <img src="https://github.com/KoEonYack/koeonyack/blob/master/img/11st-bootcamp-v2.png?raw=true" style="border:1px; solid #eaeaea;" width="70%"/>
 </p>
 <p align="center">
   <br />
@@ -148,7 +172,7 @@
 
 <div align=center>
 
-![img](./img/11-logo-v2.png)
+<img src="https://github.com/KoEonYack/koeonyack/blob/master/img/11-logo-v2.png?raw=true" />
 
 Join 21. 01. 04 ~
 
@@ -164,7 +188,7 @@ Join 21. 01. 04 ~
 
 <div align=center>
 
-![img](./img/dev-event-whale-2.png)
+<img src="https://github.com/KoEonYack/koeonyack/blob/master/img/dev-event-whale-2.png?raw=true" />
 
 Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 
@@ -172,7 +196,7 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 
 -------------
 
-![img](./img/dev-event-web.png)
+<img src="https://github.com/KoEonYack/koeonyack/blob/master/img/dev-event-web.png?raw=true" />
 
 [Dev event 바로가기](https://brave-people.github.io/Dev-Event-Client/)
 
@@ -194,7 +218,8 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 
   <div align=center>
 
-  ![img](./img/brave-member2.png)
+  <img src="https://github.com/KoEonYack/koeonyack/blob/master/img/brave-member2.png?raw=true" />
+
 
   [용감한 친구들 맴버 페이지](https://github.com/brave-people/BRAVE-Member)
 
@@ -214,7 +239,7 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 
   <div align=center>
 
-  ![img](./img/dev-event-150-v3.png)
+  <img src="https://github.com/KoEonYack/koeonyack/blob/master/img/dev-event-150-v3.png?raw=true" />
 
   [Dev Event](https://github.com/brave-people/Dev-Event)가 150스타를 달성했습니다. <br />
   방문, PR 그리고 스타 눌러주신 분들 감사합니다. 🙏
@@ -232,7 +257,7 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 
   <div align=center>
 
-  ![img](./img/contributon.png)
+  <img src="https://github.com/KoEonYack/koeonyack/blob/master/img/contributon.png?raw=true" />
 
   NexClipper Open Source Edition으로 참가하여 가비아 후원상을 받았습니다. <br />
   멘토님들, 함께하신 분들 감사합니다!
@@ -267,7 +292,7 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 
 --------
 
-<h3> 🏃   I'm Covenant!  </h3>
+<h3> 🏃 I'm Covenant!  </h3>
 
 <details>
   <summary>(👈 Open) </summary>
