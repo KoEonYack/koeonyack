@@ -27,7 +27,7 @@ NAVER WEBTOON <br />
 <br />
 
 <details>
-  <summary>[22. 07. 15] 🎈 데브 이벤트 웹에서 만나요! </summary>
+  <summary>[22. 07. 15] 데브 이벤트 웹에서 만나요! </summary>
 
 ## 🎈 데브 이벤트 웹에서 만나요!
 
@@ -298,12 +298,12 @@ Dev Event를 웨일 브라우저 확장앱으로 만나보세요!
 
 - 📄 [Riss. A Survey of Open-source Static Bug Checkers for Detecting Security Vulnerabilities in Python Web Applications](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=a6ad7eeb5b6e185ec85d2949c297615a)
 - 👨‍🎓  School of Computer Science at Handong Global University<br />
-- 👨‍💻  11st Server Developer <br />
+- 👨‍💻  NAVER WEBTOON Server Developer <br />
 - 🦸‍♂️  Member of 용감한 친구들([@brave-people](https://github.com/brave-people)) <br />
 - 🦄  Open source maintainer
-  - [Dev Event](https://github.com/brave-people/Dev-Event): 아낌없이 개발자 행사를 알려드립니다. (⭐ 2200+)
-  - [Brave Tech Interview](https://github.com/brave-people/brave-tech-interview): 국내 IT기업부터 실리콘벨리까지 기술면접 문제를 현직자가 해설해줍니다. (⭐ 1800+)
-  - [Awesome Dev Contents](https://github.com/brave-people/Awesome-Dev-Contents): 멋진 개발 자료 여기서 찾아요. (⭐ 300+)
+  - [Dev Event](https://github.com/brave-people/Dev-Event): 아낌없이 개발자 행사를 알려드립니다. (⭐ 4300+)
+  - [Brave Tech Interview](https://github.com/brave-people/brave-tech-interview): 국내 IT기업부터 실리콘벨리까지 기술면접 문제를 현직자가 해설해줍니다. (⭐ 2900+)
+  - [Awesome Dev Contents](https://github.com/brave-people/Awesome-Dev-Contents): 멋진 개발 자료 여기서 찾아요. (⭐ %00+)
 
 - 🧚 Open source contribution
   - [nhn / tui.editor. fix: typo](https://github.com/nhn/tui.editor/pull/1189)
